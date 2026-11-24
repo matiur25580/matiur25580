@@ -82,29 +82,29 @@ A selection of repositories covering different product and engineering domains. 
 ### Developer Platforms
 
 **[PulseOps — Enterprise Developer Platform](https://github.com/matiur25580/PulseOps-Enterprise-Developer-Platform)**  
-Service catalogue, incident management, observability, SLOs, deployment intelligence and FinOps workflows.  
+Service ownership, incident response, observability, SLOs and error budgets, deployment metrics and FinOps workflows.  
 <sub>Next.js · NestJS · PostgreSQL · Prisma</sub>
 
 **[Draftline — AI SaaS Generator](https://github.com/matiur25580/ai-saas-generator)**  
-An AI-assisted writing workspace with Gemini generation, account verification and saved writing history.  
+A Gemini-powered writing workspace with email OTP verification, saved generation history, bookmarks and credit tracking.  
 <sub>React · Vite · Express · MongoDB · Gemini</sub>
 
 ### Business & Operations
 
 **[HireFlow — ATS Recruitment System](https://github.com/matiur25580/ats-recruitment-system)**  
-Candidate and recruiter workflows, resume handling and AI-assisted resume-to-job analysis.  
+Candidate and recruiter workspaces for job discovery, private resume handling, application pipelines and AI-assisted resume-to-job matching.  
 <sub>React · TypeScript · Node.js · MongoDB</sub>
 
 **[FleetCommand — Logistics & Fleet Platform](https://github.com/matiur25580/Enterprise-AI-Powered-Logistics-Fleet-Supply-Chain-Command-Center)**  
-Fleet, trips, warehouses, bookings, role-based workflows and demand forecasting.  
+Role-based logistics workflows for bookings, trips, fleet, warehouses and live GPS tracking, plus 7-day booking-demand forecasts.  
 <sub>React · Node.js · Express · MongoDB · Socket.IO</sub>
 
 **[BuildSphere — Construction Intelligence Platform](https://github.com/matiur25580/BuildSphere-Enterprise-Construction-Intelligence-Platform)**  
-Project controls, commercial workflows, field operations, quality and safety management.  
+Project delivery, commercial controls, field operations, quality and safety workflows, and controlled project information.  
 <sub>React · Express · MongoDB</sub>
 
 **[FinTech Invoice & Payments](https://github.com/matiur25580/FinTech-Smart-Invoice-Expense-Supplier-Payment-System)**  
-Invoice, expense and supplier-bill workflows with transaction-aware payment handling.  
+Small-business finance operations for sales invoices, expenses, supplier bills and transaction-backed payment tracking.  
 <sub>React · TypeScript · Node.js · MongoDB</sub>
 
 <p align="center">
