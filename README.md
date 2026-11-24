@@ -61,12 +61,12 @@ A few projects from my repository collection. Each project is at its own stage o
 
 | Project | What it explores |
 |---|---|
-| [Real-Time Chat & Collaboration Hub](https://github.com/matiur25580/Enterprise-Real-Time-Chat-Collaboration-Hub) | Real-time communication and collaborative workflows |
-| [PulseOps](https://github.com/matiur25580/PulseOps-Enterprise-Developer-Platform) | Developer platform and engineering workflows |
-| [AI SaaS Generator](https://github.com/matiur25580/ai-saas-generator) | AI-assisted SaaS application generation |
-| [ATS Recruitment System](https://github.com/matiur25580/ats-recruitment-system) | Recruitment and applicant tracking workflows |
-| [Hospital Management System](https://github.com/matiur25580/hospital-management-system) | Healthcare administration workflows |
-| [Trello Clone](https://github.com/matiur25580/Trello-Clone) | Task organization and project collaboration |
+| [PulseOps — Developer Platform](https://github.com/matiur25580/PulseOps-Enterprise-Developer-Platform) | Cloud operations, observability, incident response, SLOs and FinOps |
+| [Draftline — AI Writing Studio](https://github.com/matiur25580/ai-saas-generator) | Gemini-powered writing workspace with authentication and credit history |
+| [HireFlow — ATS Recruitment System](https://github.com/matiur25580/ats-recruitment-system) | Candidate and recruiter workflows with AI-assisted resume matching |
+| [FleetCommand — Logistics Platform](https://github.com/matiur25580/Enterprise-AI-Powered-Logistics-Fleet-Supply-Chain-Command-Center) | Fleet, warehouse, shipment, finance and demand-forecast workflows |
+| [BuildSphere — Construction Platform](https://github.com/matiur25580/BuildSphere-Enterprise-Construction-Intelligence-Platform) | Project delivery, commercial controls, field operations and quality workflows |
+| [FinTech Invoice & Payments](https://github.com/matiur25580/FinTech-Smart-Invoice-Expense-Supplier-Payment-System) | Invoicing, expenses, supplier bills and transaction-safe payment workflows |
 
 ➡️ **[Explore all my repositories](https://github.com/matiur25580?tab=repositories)**
 
