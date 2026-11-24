@@ -10,6 +10,8 @@
   <h3>Building thoughtful web experiences and dependable backend systems.</h3>
 
   <p>
+    <a href="https://developer-portfolio-client.vercel.app"><img src="https://img.shields.io/badge/VISIT-Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit personal portfolio" /></a>
+    <a href="https://www.linkedin.com/in/matiur-rahaman-3a6086233"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
     <a href="mailto:rahamanmatiur397@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
     <a href="https://github.com/matiur25580?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
     <a href="https://github.com/matiur25580?tab=followers"><img src="https://img.shields.io/github/followers/matiur25580?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers" /></a>
@@ -137,6 +139,8 @@ Bengal Institute of Technology, Kolkata · MAKAUT
 I'm happy to connect with developers, engineering teams and people building useful products.
 
 <div align="center">
+  <a href="https://developer-portfolio-client.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Matiur Rahaman portfolio website" /></a>
+  <a href="https://www.linkedin.com/in/matiur-rahaman-3a6086233"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matiur Rahaman on LinkedIn" /></a>
   <a href="mailto:rahamanmatiur397@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rahamanmatiur397%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Matiur Rahaman" /></a>
   <a href="https://github.com/matiur25580"><img src="https://img.shields.io/badge/GITHUB-matiur25580-181717?style=for-the-badge&logo=github&logoColor=white" alt="Matiur Rahaman on GitHub" /></a>
 </div>
