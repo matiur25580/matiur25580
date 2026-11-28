@@ -63,12 +63,14 @@ A few projects that represent the product areas and engineering problems I enjoy
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**PulseOps — Developer Platform**](https://github.com/matiur25580/PulseOps-Enterprise-Developer-Platform) | Developer platform covering service ownership, incident response, observability, SLOs, deployment metrics and FinOps workflows. | Next.js · NestJS · PostgreSQL · Prisma |
-| [**HireFlow — ATS Recruitment System**](https://github.com/matiur25580/ats-recruitment-system) | Candidate and recruiter workflows for job discovery, resume handling, application pipelines and AI-assisted resume-to-job matching. | React · TypeScript · Node.js · MongoDB |
-| [**Draftline — AI SaaS Generator**](https://github.com/matiur25580/ai-saas-generator) | Gemini-powered writing workspace with email OTP verification, generation history, bookmarks and credit tracking. | React · Vite · Express · MongoDB |
-| [**FleetCommand — Logistics Platform**](https://github.com/matiur25580/Enterprise-AI-Powered-Logistics-Fleet-Supply-Chain-Command-Center) | Role-based workflows for bookings, trips, fleet and warehouses, with live GPS tracking and booking-demand forecasts. | React · Node.js · Express · MongoDB · Socket.IO |
-| [**BuildSphere — Construction Platform**](https://github.com/matiur25580/BuildSphere-Enterprise-Construction-Intelligence-Platform) | Construction project workflows spanning delivery, commercial controls, field operations, quality, safety and project information. | React · Express · MongoDB |
-| [**FinTech Invoice & Payments**](https://github.com/matiur25580/FinTech-Smart-Invoice-Expense-Supplier-Payment-System) | Small-business workflows for sales invoices, expenses, supplier bills and transaction-backed payment tracking. | React · TypeScript · Node.js · MongoDB |
+| [**ForgeOS — Industrial Operations Platform**](https://github.com/matiur25580/ForgeOS) | Manufacturing operations covering plant and asset management, production execution, maintenance, quality, inventory, scheduling and traceability. | React · TypeScript · Node.js · Express · MongoDB |
+| [**SkyPort Atlas — Aviation Operations Platform**](https://github.com/matiur25580/SkyPort-Atlas) | Airport and airline workflows across flight operations, booking, ticketing, baggage, crew, ground operations and provider-aware telemetry. | React · TypeScript · Node.js · Express · MongoDB |
+| [**TrustSphere — Risk & Compliance Platform**](https://github.com/matiur25580/TrustSphere) | Multi-tenant third-party risk workflows for vendors, security assessments, findings, remediation, compliance evidence and incident response. | React · TypeScript · Node.js · Express · MongoDB |
+| [**ProcuraOS — Enterprise Procurement Platform**](https://github.com/matiur25580/ProcuraOS) | Procurement lifecycle spanning requisitions, approvals, supplier sourcing, purchase orders, receiving, invoice matching, payments and reconciliation. | React · TypeScript · Node.js · Express · MongoDB |
+| [**WardPilot — Hospital Operations Platform**](https://github.com/matiur25580/WardPilot) | Hospital capacity and operations workflows for facilities, beds, patient flow, workforce shifts, critical inventory and operational governance. | React · TypeScript · Node.js · Express · MongoDB |
+| [**UrbanGrid — Infrastructure Operations Platform**](https://github.com/matiur25580/UrbanGrid) | Infrastructure asset registry, geospatial discovery, maintenance work orders, field operations and auditable lifecycle management. | React · TypeScript · Node.js · Express · MongoDB |
+
+These projects are developed in milestones. Each repository README documents implemented capabilities, remaining work and operational limitations; planned features should not be treated as production-ready.
 
 <p align="center">
   <a href="https://github.com/matiur25580?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
